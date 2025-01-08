@@ -1,2 +1,3 @@
 # cv-yoga
-The aim of this project is in exploring the details of computer vision and manipulating big data.
+This project aims to explore the details of computer vision and manipulate big data.
+
